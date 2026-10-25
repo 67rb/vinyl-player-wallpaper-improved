@@ -1,47 +1,17 @@
-# Vinyl Player Wallpaper for Mac
+# Vinyl Wallpaper for Mac
 
-> **Project status: 95% complete.** This is a work in progress; the percentage is the project's current self-reported status, not a release or testing guarantee.
+A native macOS wallpaper app that mirrors the music currently playing in Spotify. Its vinyl spins during playback, the current cover sits on the record stand, and previous tracks collect on the right. Four original listening rooms plus light rain, heavy rain, a thunderstorm, and a fireside room are included.
 
-Vinyl Player Wallpaper is a native macOS desktop experience that reflects the music currently playing in Spotify. A record spins during playback, the current album cover appears beside it, and recently played records build a visual history.
+## Install and run
 
-## Features
+Open `~/Applications/Vinyl Wallpaper.app`. The build verifies this copy outside the synced workspace to avoid FileProvider metadata invalidating its signature. A workspace copy is also saved at `../Vinyl Wallpaper.app`. The app appears in the Dock and the menu bar. Click its Dock icon to reopen the collection window; Command-comma opens settings and Command-Q quits. Closing the collection window leaves the wallpaper running. Choose **Wallpapers & Spotify…** to select a scene, preview the wallpaper, reconnect Spotify, or set optional room sounds. When macOS first asks, allow Vinyl Wallpaper to read Spotify playback. Playback stays on Spotify; the wallpaper only reads its track and artwork.
 
-- Eight listening-room scenes: four room designs, three rain or storm moods, and a fireside scene.
-- Spotify playback and album-art display, with previous tracks collected in the scene.
-- Optional ambient rain, fire, and thunder sounds.
-- Native macOS rendering for the desktop wallpaper and full-size preview.
-- Per-display wallpapers with saved scene, playback history, and sound preferences.
-- Local media assets so the scenes do not depend on remote image requests.
+The desktop wallpaper ignores mouse clicks so Finder remains usable. Each display gets its own matching wallpaper. Scene choice, Spotify playback history, and room sound preference are saved locally.
 
-The wallpaper reads the current song and artwork from Spotify; playback stays in Spotify. macOS may ask you to allow the app to control Spotify through Apple Events. Scene preferences and playback history are stored locally.
+The desktop and full-size preview use native Core Animation layers for the room, record, album artwork, tonearm, history, and rain. They have no WebKit renderer or page reload. Fire plays through a native AVPlayerLayer only while Fireside is selected. Rain tiles and artwork are shared between displays with bounded caches. The collection window uses smaller gallery thumbnails and releases its web view when closed. Artwork is resized to 512 pixels and unchanged Spotify state is not resent. Optional rain, fire, and thunder audio plays natively. A one-second timer schedules thunder and records diagnostics every ten seconds; it does not draw animation frames.
 
-## Requirements
-
-- macOS 13 or later.
-- Swift toolchain and Xcode Command Line Tools.
-- Spotify installed for live music synchronization. The room scenes can be previewed independently.
+The rain window uses a real photograph and Fireside uses locally bundled footage of actual flames; room interiors and tonearm assets remain generated. Credits and asset details are in `asset-provenance.md`, and review evidence is in `live-wallpaper-review.md`.
 
 ## Build
 
-    swift build -c release
-    ./check-playback.sh
-    ./build.sh
-
-The build script packages and ad-hoc signs the app, then installs it at ~/Applications/Vinyl Wallpaper.app by default. Set VINYL_APP_DESTINATION to choose another install location.
-
-Open the app and select Wallpapers & Spotify… to choose a scene, preview it, connect to Spotify, or set optional room sounds. Closing the collection window leaves the wallpaper running. Command-comma opens settings and Command-Q quits.
-
-## Media credits
-
-The fire footage and rain-window photograph are credited in asset-provenance.md. The bundled fire and rain media are used under the Pexels license. Room interiors and tonearms are generated artwork; ambient sound files are locally synthesized.
-
-## Project layout
-
-- Sources/VinylWallpaper/ — native macOS app and playback code.
-- Resources/ — scene definitions, wallpaper UI resources, artwork, and bundled media.
-- scripts/PlaybackChecks.swift — playback logic checks.
-- Info.plist — app identity and macOS metadata.
-
-## License
-
-No software license has been added yet. The bundled third-party media remains subject to the license terms described in asset-provenance.md.
+Run `./build.sh` from this directory. Build playback logic checks with `./check-playback.sh`.

@@ -1,0 +1,343 @@
+[
+  {
+    "elapsed": 0,
+    "scene": 7,
+    "frame": 2433,
+    "fire": {
+      "error": null,
+      "paused": false,
+      "ready": 4,
+      "time": 10.938386666999257
+    }
+  },
+  {
+    "elapsed": 2,
+    "scene": 7,
+    "frame": 2499,
+    "fire": {
+      "error": null,
+      "paused": false,
+      "ready": 4,
+      "time": 13.938468916665123
+    }
+  },
+  {
+    "elapsed": 4,
+    "scene": 7,
+    "frame": 2532,
+    "fire": {
+      "error": null,
+      "paused": false,
+      "ready": 4,
+      "time": 0.2642065416670649
+    }
+  },
+  {
+    "elapsed": 6,
+    "scene": 7,
+    "frame": 2572,
+    "fire": {
+      "error": null,
+      "paused": false,
+      "ready": 4,
+      "time": 2.0174268340008847
+    }
+  },
+  {
+    "elapsed": 8,
+    "scene": 7,
+    "frame": 2631,
+    "fire": {
+      "error": null,
+      "paused": false,
+      "ready": 4,
+      "time": 4.76337008333229
+    }
+  },
+  {
+    "elapsed": 10,
+    "scene": 7,
+    "frame": 2665,
+    "fire": {
+      "error": null,
+      "paused": false,
+      "ready": 4,
+      "time": 6.266353749998231
+    }
+  },
+  {
+    "elapsed": 12,
+    "scene": 7,
+    "frame": 2712,
+    "fire": {
+      "error": null,
+      "paused": false,
+      "ready": 4,
+      "time": 8.35056820900276
+    }
+  },
+  {
+    "elapsed": 14,
+    "scene": 7,
+    "frame": 2763,
+    "fire": {
+      "error": null,
+      "paused": false,
+      "ready": 4,
+      "time": 10.763858416664316
+    }
+  },
+  {
+    "elapsed": 16,
+    "scene": 7,
+    "frame": 2805,
+    "fire": {
+      "error": null,
+      "paused": false,
+      "ready": 4,
+      "time": 12.60072904166564
+    }
+  },
+  {
+    "elapsed": 18,
+    "scene": 7,
+    "frame": 2852,
+    "fire": {
+      "error": null,
+      "paused": false,
+      "ready": 4,
+      "time": 14.684048125333934
+    }
+  },
+  {
+    "elapsed": 20,
+    "scene": 7,
+    "frame": 2898,
+    "fire": {
+      "error": null,
+      "paused": false,
+      "ready": 4,
+      "time": 1.675302916335284
+    }
+  },
+  {
+    "elapsed": 22,
+    "scene": 7,
+    "frame": 2928,
+    "fire": {
+      "error": null,
+      "paused": false,
+      "ready": 4,
+      "time": 3.0885832496656516
+    }
+  },
+  {
+    "elapsed": 24,
+    "scene": 7,
+    "frame": 2961,
+    "fire": {
+      "error": null,
+      "paused": false,
+      "ready": 4,
+      "time": 4.58913170833329
+    }
+  },
+  {
+    "elapsed": 26,
+    "scene": 7,
+    "frame": 3027,
+    "fire": {
+      "error": null,
+      "paused": false,
+      "ready": 4,
+      "time": 7.590293750002435
+    }
+  },
+  {
+    "elapsed": 28,
+    "scene": 7,
+    "frame": 3060,
+    "fire": {
+      "error": null,
+      "paused": false,
+      "ready": 4,
+      "time": 9.089712750000526
+    }
+  },
+  {
+    "elapsed": 30,
+    "scene": 7,
+    "frame": 3093,
+    "fire": {
+      "error": null,
+      "paused": false,
+      "ready": 4,
+      "time": 10.589531249333309
+    }
+  },
+  {
+    "elapsed": 32,
+    "scene": 7,
+    "frame": 3159,
+    "fire": {
+      "error": null,
+      "paused": false,
+      "ready": 4,
+      "time": 13.587744833333437
+    }
+  },
+  {
+    "elapsed": 34,
+    "scene": 7,
+    "frame": 3192,
+    "fire": {
+      "error": null,
+      "paused": false,
+      "ready": 4,
+      "time": 15.089792291666944
+    }
+  },
+  {
+    "elapsed": 36,
+    "scene": 7,
+    "frame": 3225,
+    "fire": {
+      "error": null,
+      "paused": false,
+      "ready": 4,
+      "time": 1.4120549993347893
+    }
+  },
+  {
+    "elapsed": 38,
+    "scene": 7,
+    "frame": 3291,
+    "fire": {
+      "error": null,
+      "paused": false,
+      "ready": 4,
+      "time": 4.414980457665795
+    }
+  },
+  {
+    "elapsed": 40,
+    "scene": 7,
+    "frame": 3324,
+    "fire": {
+      "error": null,
+      "paused": false,
+      "ready": 4,
+      "time": 5.913759499664952
+    }
+  },
+  {
+    "elapsed": 42,
+    "scene": 7,
+    "frame": 3364,
+    "fire": {
+      "error": null,
+      "paused": false,
+      "ready": 4,
+      "time": 7.667308458334797
+    }
+  },
+  {
+    "elapsed": 44,
+    "scene": 7,
+    "frame": 3423,
+    "fire": {
+      "error": null,
+      "paused": false,
+      "ready": 4,
+      "time": 10.416258291335103
+    }
+  },
+  {
+    "elapsed": 46,
+    "scene": 7,
+    "frame": 3457,
+    "fire": {
+      "error": null,
+      "paused": false,
+      "ready": 4,
+      "time": 11.916782541331209
+    }
+  },
+  {
+    "elapsed": 48,
+    "scene": 7,
+    "frame": 3504,
+    "fire": {
+      "error": null,
+      "paused": false,
+      "ready": 4,
+      "time": 14.000516458334713
+    }
+  },
+  {
+    "elapsed": 50,
+    "scene": 7,
+    "frame": 3555,
+    "fire": {
+      "error": null,
+      "paused": false,
+      "ready": 4,
+      "time": 1.2322357083357347
+    }
+  },
+  {
+    "elapsed": 52,
+    "scene": 7,
+    "frame": 3597,
+    "fire": {
+      "error": null,
+      "paused": false,
+      "ready": 4,
+      "time": 3.07069149999892
+    }
+  },
+  {
+    "elapsed": 54,
+    "scene": 7,
+    "frame": 3644,
+    "fire": {
+      "error": null,
+      "paused": false,
+      "ready": 4,
+      "time": 5.154043666666621
+    }
+  },
+  {
+    "elapsed": 56,
+    "scene": 7,
+    "frame": 3690,
+    "fire": {
+      "error": null,
+      "paused": false,
+      "ready": 4,
+      "time": 7.320819458663911
+    }
+  },
+  {
+    "elapsed": 58,
+    "scene": 7,
+    "frame": 3737,
+    "fire": {
+      "error": null,
+      "paused": false,
+      "ready": 4,
+      "time": 9.404168541333746
+    }
+  },
+  {
+    "elapsed": 60,
+    "scene": 7,
+    "frame": 3784,
+    "fire": {
+      "error": null,
+      "paused": false,
+      "ready": 4,
+      "time": 11.488353708001869
+    }
+  }
+]

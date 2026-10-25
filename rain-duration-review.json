@@ -1,0 +1,372 @@
+[
+  {
+    "elapsed": 0,
+    "scene": 5,
+    "frame": 636,
+    "driver": "native",
+    "hidden": false,
+    "seconds": 29,
+    "droplets": 260,
+    "streaks": 720
+  },
+  {
+    "elapsed": 10,
+    "scene": 5,
+    "frame": 869,
+    "driver": "native",
+    "hidden": false,
+    "seconds": 40,
+    "droplets": 260,
+    "streaks": 720
+  },
+  {
+    "elapsed": 20,
+    "scene": 5,
+    "frame": 1090,
+    "driver": "native",
+    "hidden": false,
+    "seconds": 50,
+    "droplets": 260,
+    "streaks": 720
+  },
+  {
+    "elapsed": 30,
+    "scene": 5,
+    "frame": 1289,
+    "driver": "native",
+    "hidden": false,
+    "seconds": 59,
+    "droplets": 260,
+    "streaks": 720
+  },
+  {
+    "elapsed": 40,
+    "scene": 5,
+    "frame": 1521,
+    "driver": "native",
+    "hidden": false,
+    "seconds": 69,
+    "droplets": 260,
+    "streaks": 720
+  },
+  {
+    "elapsed": 50,
+    "scene": 5,
+    "frame": 1750,
+    "driver": "native",
+    "hidden": false,
+    "seconds": 80,
+    "droplets": 260,
+    "streaks": 720
+  },
+  {
+    "elapsed": 60,
+    "scene": 5,
+    "frame": 1948,
+    "driver": "native",
+    "hidden": false,
+    "seconds": 89,
+    "droplets": 260,
+    "streaks": 720
+  },
+  {
+    "elapsed": 70,
+    "scene": 5,
+    "frame": 2179,
+    "driver": "native",
+    "hidden": false,
+    "seconds": 99,
+    "droplets": 260,
+    "streaks": 720
+  },
+  {
+    "elapsed": 80,
+    "scene": 5,
+    "frame": 2410,
+    "driver": "native",
+    "hidden": false,
+    "seconds": 110,
+    "droplets": 260,
+    "streaks": 720
+  },
+  {
+    "elapsed": 90,
+    "scene": 5,
+    "frame": 2609,
+    "driver": "native",
+    "hidden": false,
+    "seconds": 119,
+    "droplets": 260,
+    "streaks": 720
+  },
+  {
+    "elapsed": 100,
+    "scene": 5,
+    "frame": 2838,
+    "driver": "native",
+    "hidden": false,
+    "seconds": 129,
+    "droplets": 260,
+    "streaks": 720
+  },
+  {
+    "elapsed": 110,
+    "scene": 5,
+    "frame": 3052,
+    "driver": "native",
+    "hidden": false,
+    "seconds": 139,
+    "droplets": 260,
+    "streaks": 720
+  },
+  {
+    "elapsed": 120,
+    "scene": 5,
+    "frame": 3250,
+    "driver": "native",
+    "hidden": false,
+    "seconds": 148,
+    "droplets": 260,
+    "streaks": 720
+  },
+  {
+    "elapsed": 130,
+    "scene": 5,
+    "frame": 3482,
+    "driver": "native",
+    "hidden": false,
+    "seconds": 159,
+    "droplets": 260,
+    "streaks": 720
+  },
+  {
+    "elapsed": 140,
+    "scene": 5,
+    "frame": 3712,
+    "driver": "native",
+    "hidden": false,
+    "seconds": 169,
+    "droplets": 260,
+    "streaks": 720
+  },
+  {
+    "elapsed": 150,
+    "scene": 5,
+    "frame": 3909,
+    "driver": "native",
+    "hidden": false,
+    "seconds": 178,
+    "droplets": 260,
+    "streaks": 720
+  },
+  {
+    "elapsed": 160,
+    "scene": 5,
+    "frame": 4140,
+    "driver": "native",
+    "hidden": false,
+    "seconds": 188,
+    "droplets": 260,
+    "streaks": 720
+  },
+  {
+    "elapsed": 170,
+    "scene": 5,
+    "frame": 4371,
+    "driver": "native",
+    "hidden": false,
+    "seconds": 199,
+    "droplets": 260,
+    "streaks": 720
+  },
+  {
+    "elapsed": 180,
+    "scene": 5,
+    "frame": 4568,
+    "driver": "native",
+    "hidden": false,
+    "seconds": 207,
+    "droplets": 260,
+    "streaks": 720
+  },
+  {
+    "elapsed": 190,
+    "scene": 5,
+    "frame": 4799,
+    "driver": "native",
+    "hidden": false,
+    "seconds": 218,
+    "droplets": 260,
+    "streaks": 720
+  },
+  {
+    "elapsed": 200,
+    "scene": 5,
+    "frame": 5030,
+    "driver": "native",
+    "hidden": false,
+    "seconds": 228,
+    "droplets": 260,
+    "streaks": 720
+  },
+  {
+    "elapsed": 210,
+    "scene": 5,
+    "frame": 5228,
+    "driver": "native",
+    "hidden": false,
+    "seconds": 237,
+    "droplets": 260,
+    "streaks": 720
+  },
+  {
+    "elapsed": 220,
+    "scene": 5,
+    "frame": 5459,
+    "driver": "native",
+    "hidden": false,
+    "seconds": 248,
+    "droplets": 260,
+    "streaks": 720
+  },
+  {
+    "elapsed": 230,
+    "scene": 5,
+    "frame": 5690,
+    "driver": "native",
+    "hidden": false,
+    "seconds": 258,
+    "droplets": 260,
+    "streaks": 720
+  },
+  {
+    "elapsed": 240,
+    "scene": 5,
+    "frame": 5913,
+    "driver": "native",
+    "hidden": false,
+    "seconds": 268,
+    "droplets": 260,
+    "streaks": 720
+  },
+  {
+    "elapsed": 250,
+    "scene": 5,
+    "frame": 6115,
+    "driver": "native",
+    "hidden": false,
+    "seconds": 277,
+    "droplets": 260,
+    "streaks": 720
+  },
+  {
+    "elapsed": 260,
+    "scene": 5,
+    "frame": 6346,
+    "driver": "native",
+    "hidden": false,
+    "seconds": 288,
+    "droplets": 260,
+    "streaks": 720
+  },
+  {
+    "elapsed": 270,
+    "scene": 5,
+    "frame": 6568,
+    "driver": "native",
+    "hidden": false,
+    "seconds": 298,
+    "droplets": 260,
+    "streaks": 720
+  },
+  {
+    "elapsed": 280,
+    "scene": 5,
+    "frame": 6773,
+    "driver": "native",
+    "hidden": false,
+    "seconds": 307,
+    "droplets": 260,
+    "streaks": 720
+  },
+  {
+    "elapsed": 290,
+    "scene": 5,
+    "frame": 7004,
+    "driver": "native",
+    "hidden": false,
+    "seconds": 317,
+    "droplets": 260,
+    "streaks": 720
+  },
+  {
+    "elapsed": 300,
+    "scene": 5,
+    "frame": 7221,
+    "driver": "native",
+    "hidden": false,
+    "seconds": 327,
+    "droplets": 260,
+    "streaks": 720
+  },
+  {
+    "elapsed": 310,
+    "scene": 5,
+    "frame": 7433,
+    "driver": "native",
+    "hidden": false,
+    "seconds": 337,
+    "droplets": 260,
+    "streaks": 720
+  },
+  {
+    "elapsed": 320,
+    "scene": 5,
+    "frame": 7664,
+    "driver": "native",
+    "hidden": false,
+    "seconds": 347,
+    "droplets": 260,
+    "streaks": 720
+  },
+  {
+    "elapsed": 330,
+    "scene": 5,
+    "frame": 7875,
+    "driver": "native",
+    "hidden": false,
+    "seconds": 357,
+    "droplets": 260,
+    "streaks": 720
+  },
+  {
+    "elapsed": 340,
+    "scene": 5,
+    "frame": 8109,
+    "driver": "native",
+    "hidden": false,
+    "seconds": 367,
+    "droplets": 260,
+    "streaks": 720
+  },
+  {
+    "elapsed": 350,
+    "scene": 5,
+    "frame": 8324,
+    "driver": "native",
+    "hidden": false,
+    "seconds": 377,
+    "droplets": 260,
+    "streaks": 720
+  },
+  {
+    "elapsed": 360,
+    "scene": 5,
+    "frame": 8528,
+    "driver": "native",
+    "hidden": false,
+    "seconds": 386,
+    "droplets": 260,
+    "streaks": 720
+  }
+]
